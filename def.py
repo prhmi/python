@@ -1,4 +1,5 @@
 # def for musical score
+# def for musical score
 def staff(x=10,number=5,wx=1000):
     linedex = 0
     while linedex < number:
